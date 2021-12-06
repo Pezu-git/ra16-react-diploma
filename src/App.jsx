@@ -12,6 +12,7 @@ import CartOrder from './components/CartOrder/CartOrder';
 import Home from './components/Home/Home';
 import Page404 from './components/404/404';
 import Footer from './components/Footer/Footer';
+import './css/style.css';
 import './App.css';
 
 function App() {

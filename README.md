@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/r57rf7qo3m02ypqp?svg=true)](https://ci.appveyor.com/project/Pezu-git/ra16-react-diploma)
+[![Build status](https://ci.appveyor.com/api/projects/status/wd22uve3no2kp3ar?svg=true)](https://ci.appveyor.com/project/Pezu-git/ra16-diploma)
 
 
 # Дипломный проект курса «React»
